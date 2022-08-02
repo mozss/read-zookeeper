@@ -1,0 +1,23 @@
+
+[	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(‰Š”
+t	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜ÙÀ³úÿÿÿÿ
+\
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(˜ÙÀ³úÿÿÿÿ
+y
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¿Èİ¨ùÿÿÿÿ
+j
+java:S1215/"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+P
+java:S22090"5Change this instance-reference to a static reference.(éÄä©ıÿÿÿÿ
+j
+java:S12152"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(€êÜ
+P
+java:S22093"5Change this instance-reference to a static reference.(éÄä©ıÿÿÿÿ
+O
+java:S2387Ê"8"pathCount" is the name of a field in "InvocationState".(Ê¯ïï
+W
+java:S2387Í";"watcherCount" is the name of a field in "InvocationState".(Â÷ë×úÿÿÿÿ
+O
+java:S2387ˆ"8"pathCount" is the name of a field in "InvocationState".(Ê¯ïï
+W
+java:S2387‹";"watcherCount" is the name of a field in "InvocationState".(Â÷ë×úÿÿÿÿ
