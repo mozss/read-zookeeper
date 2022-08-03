@@ -188,4 +188,6 @@ lint/tmp/
 
 /.res/
 
-src/main/java/org/apache/zookeeper/jmx/jmx.md
+
+# 忽略的笔记文档
+zookeeper-server/src/main/java/org/apache/zookeeper/jmx/jmx-说明.md
