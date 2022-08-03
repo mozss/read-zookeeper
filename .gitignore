@@ -191,3 +191,4 @@ lint/tmp/
 
 # 忽略的笔记文档
 zookeeper-server/src/main/java/org/apache/zookeeper/jmx/jmx-说明.md
+zookeeper-server/src/main/java/org/apache/zookeeper/compat/ProtocolManager.md
