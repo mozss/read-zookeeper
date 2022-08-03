@@ -187,3 +187,5 @@ lint/tmp/
 *.hprof
 
 /.res/
+
+src/main/java/org/apache/zookeeper/jmx/jmx.md

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/zookeeper-jute" title="通过jute组件进行序列化和反序列化, 是zookeeper网络通信相关逻辑最核心的部分"/>
+     <tree path="/zookeeper-server" icons="XmlBrowsersFirefox"/>
+     <tree path="/zookeeper-docs" title="相关文档(markdown格式)"/>
+     <tree path="/zookeeper-recipes/zookeeper-recipes-election/src/main/java/org/apache/zookeeper/recipes/leader/LeaderElectionAware.java"
+           title="由想要接收选举事件的客户端实现的接口" extension="java"/>
+     <tree path="/zookeeper-recipes" icons="XmlBrowsersCanary"/>
+     <tree path="/zookeeper-server/src/main/java/org/apache/zookeeper/jmx"
+           title="Java Management Extensions(Java管理扩展)的缩写, 是一个为应用程序植入管理功能的框架"/>
+ </trees>
